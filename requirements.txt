@@ -1,0 +1,10 @@
+openai
+python-dotenv
+langchain
+langchain-community
+langchain_openai
+fastapi
+python-dotenv
+faiss-cpu
+pandas
+sentence_transformers
